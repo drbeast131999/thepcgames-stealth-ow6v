@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/thepcgames-stealth-ow6v/sitemap.xml
